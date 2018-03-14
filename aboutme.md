@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yuriy Pakhotin - About Me
+title: Yuriy Pakhotin
 subtitle: Senior Data Scientist | Ph.D.
 ---
 
