@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Yuriy Pakhotin - About Me
+subtitle: Senior Data Scientist | Ph.D.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+ * Accomplished scientist with 20 years of experience in quantitative research, advanced analytical and statistical techniques, data modeling, prediction, simulation and visualization, software development and hardware R&D. Have led analyses of very large and complex datasets using cutting edge algorithms on distributed computing grids.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+ * Recognized team leader with over 15 years of management experience for projects in large national and international collaborations. An energetic team player and passionate mentor well adapted to work in a diverse collaborative environment.
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+ * Creative scholar with proven excellence in academic performance. Have earned a PhD degree in a data-heavy field of physics and contributed to the breakthrough discovery of the Nobel-prize winning Higgs boson (aka “God particle”).
