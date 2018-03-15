@@ -9,3 +9,47 @@ subtitle: Senior Data Scientist | Ph.D.
  * Recognized team leader with over 15 years of management experience for projects in large national and international collaborations. An energetic team player and passionate mentor well adapted to work in a diverse collaborative environment.
 
  * Creative scholar with proven excellence in academic performance. Have earned a PhD degree in a data-heavy field of physics and contributed to the breakthrough discovery of the Nobel-prize winning Higgs boson (aka “God particle”).
+
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links">
+          {%- for link in site.social-network-links -%}
+            {%- assign curkey = link[0] -%}
+            {%- assign element = site.data.SocialNetworks[curkey] -%}
+            <li>
+            {%- if curkey == 'rss' -%}
+              <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="{{ element.name }}">
+            {%- elsif curkey == 'yelp' -%}
+              <a href="https://{{ site.social-network-links[curkey] }}.yelp.com" title="{{ element.name }}">
+            {%- else -%}
+              <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}">
+            {%- endif -%}
+                <span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">{{ element.name }}</span>
+              </a>
+            </li>
+          {%- endfor -%}
+        </ul>
+      <p class="copyright text-muted">
+      &copy;
+        {{ site.author.name }}
+      &nbsp;&bull;&nbsp;
+      {{ site.time | date: '%Y' }}
+
+      {% if site.url-pretty %}
+      &nbsp;&bull;&nbsp;
+      <a href="{{ site.url }}">{{ site.url-pretty }}</a>
+      {% endif %}
+
+      {% if site.matomo %}
+        {% if site.matomo.opt-out %}
+          &nbsp;&bull;&nbsp;
+          <a href="http://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
+        {% endif %}
+      {% endif%}
+      </p>
+      </div>
+</div>
