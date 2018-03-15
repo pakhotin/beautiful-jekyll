@@ -4,6 +4,7 @@ title: Yuriy Pakhotin
 subtitle: Senior Data Scientist | Ph.D.
 ---
 
+<div class="row">
 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
 <ul class="list-inline text-center footer-links">
   {%- for link in site.social-network-links -%}
@@ -26,6 +27,7 @@ subtitle: Senior Data Scientist | Ph.D.
     </li>
   {%- endfor -%}
 </ul>
+</div>
 </div>
 
  * Accomplished scientist with 20 years of experience in quantitative research, advanced analytical and statistical techniques, data modeling, prediction, simulation and visualization, software development and hardware R&D. Have led analyses of very large and complex datasets using cutting edge algorithms on distributed computing grids.
