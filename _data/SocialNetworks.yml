@@ -31,6 +31,11 @@ google-plus:
   baseURL: "https://plus.google.com/"
   icon: "fa-google-plus"
 
+google-scholar:
+  name: "GoogleScholar"
+  baseURL: "https://scholar.google.com/citations?hl=en&user="
+  icon: "fa-graduation-cap"
+
 email:
   name: "Email me"
   baseURL: "mailto:"
