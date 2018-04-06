@@ -35,3 +35,7 @@ subtitle: Senior Data Scientist | Ph.D.
  * Recognized team leader with over 15 years of management experience for projects in large national and international collaborations. An energetic team player and passionate mentor well adapted to work in a diverse collaborative environment.
 
  * Creative scholar with proven excellence in academic performance. Have earned a PhD degree in a data-heavy field of physics and contributed to the breakthrough discovery of the Nobel-prize winning Higgs boson (aka “God particle”).
+
+## Professional Organisations
+
+![ASA][Logo_ASA_512x512.png]
