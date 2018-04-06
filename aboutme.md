@@ -38,4 +38,4 @@ subtitle: Senior Data Scientist | Ph.D.
 
 ## Professional Organisations
 
-<img src="./img/Logo_ASA_512x512.png" alt="ASA" style="width: 50px;"/>
+<img src="./img/Logo_ASA_512x512.png" alt="ASA" width="50"/>
