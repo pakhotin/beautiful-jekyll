@@ -36,4 +36,6 @@ subtitle: Senior Data Scientist | Ph.D.
 
  * Creative scholar with proven excellence in academic performance. Have earned a PhD degree in a data-heavy field of physics and contributed to the breakthrough discovery of the Nobel-prize winning Higgs boson (aka “God particle”).
 
-<img src="https://pakhot.in/img/Logo_ASA_512x512.png" alt="ASA" width="50"/>&nbsp;<img src="https://pakhot.in/img/Logo_ACM_512x512.png" alt="ACM" width="50"/>&nbsp;<img src="https://pakhot.in/img/Logo_APS_512x512.png" alt="APS" width="50"/>
+<p align="center">
+<a href="http://www.amstat.org"><img src="https://pakhot.in/img/Logo_ASA_512x512.png" alt="ASA" width="50"/></a>&nbsp;<a href="https://www.acm.org"><img src="https://pakhot.in/img/Logo_ACM_512x512.png" alt="ACM" width="50"/></a>&nbsp;<a href="https://www.aps.org"><img src="https://pakhot.in/img/Logo_APS_512x512.png" alt="APS" width="50"/></a>
+</p>
