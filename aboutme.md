@@ -30,9 +30,7 @@ subtitle: Senior Data Scientist | Ph.D.
 </div>
 </div>
 
-<img src="./img/Logo_ASA_512x512.png" alt="ASA" width="50"/>
-<img src="./img/Logo_ACM_512x512.png" alt="ACM" width="50"/>
-<img src="./img/Logo_APS_512x512.png" alt="APS" width="50"/>
+<img src="./img/Logo_ASA_512x512.png" alt="ASA" width="50"/><img src="./img/Logo_ACM_512x512.png" alt="ACM" width="50"/><img src="./img/Logo_APS_512x512.png" alt="APS" width="50"/>
 
  * Accomplished scientist with 20 years of experience in quantitative research, advanced analytical and statistical techniques, data modeling, prediction, simulation and visualization, software development and hardware R&D. Have led analyses of very large and complex datasets using cutting edge algorithms on distributed computing grids.
 
