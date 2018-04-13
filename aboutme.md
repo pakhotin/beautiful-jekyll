@@ -36,8 +36,8 @@ subtitle: Senior Data Scientist | Ph.D.
 
 * Creative scholar with proven excellence in academic performance. Have earned a PhD degree in a data-heavy field of nuclear physics and contributed to the breakthrough discovery of the Nobel-prize winning Higgs boson (aka “God particle”).
 
-* Active member of professional organizations as follows: American Statistical Association (ASA), Association for Computing Machinery (ACM), American Physics Society (APS) and Society of Automotive Engineers (SAE).
+* Active member of professional organizations as follows: American Statistical Association (ASA), Association for Computing Machinery (ACM), American Physical Society (APS), European Physical Society (EPS) and Society of Automotive Engineers (SAE).
 
 <p align="center">
-<a href="http://www.amstat.org"><img src="https://pakhot.in/img/Logo_ASA_512x512.png" alt="ASA" width="50"/></a>&nbsp;<a href="https://www.acm.org"><img src="https://pakhot.in/img/Logo_ACM_512x512.png" alt="ACM" width="50"/></a>&nbsp;<a href="https://www.aps.org"><img src="https://pakhot.in/img/Logo_APS_512x512.png" alt="APS" width="50"/></a>&nbsp;<a href="https://www.sae.org"><img src="https://pakhot.in/img/Logo_SAE_512x512.png" alt="SAE" width="50"/></a>
+<a href="http://www.amstat.org"><img src="https://pakhot.in/img/Logo_ASA_512x512.png" alt="ASA" width="50"/></a>&nbsp;<a href="https://www.acm.org"><img src="https://pakhot.in/img/Logo_ACM_512x512.png" alt="ACM" width="50"/></a>&nbsp;<a href="https://www.aps.org"><img src="https://pakhot.in/img/Logo_APS_512x512.png" alt="APS" width="50"/></a>&nbsp;<a href="https://www.eps.org"><img src="https://pakhot.in/img/Logo_EPS_512x512.png" alt="SAE" width="50"/></a>&nbsp;<a href="https://www.sae.org"><img src="https://pakhot.in/img/Logo_SAE_512x512.png" alt="SAE" width="50"/></a>
 </p>
